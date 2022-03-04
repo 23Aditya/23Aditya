@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on Computer Vision projects
-👯 I’m looking to collaborate on research projects in fields of computer vision.
+#🔭 I’m currently working on Computer Vision projects
+#👯 I’m looking to collaborate on research projects in fields of computer vision.
 
 
 <!--
