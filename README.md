@@ -1,4 +1,4 @@
-### Hi there ![wave (1)](https://user-images.githubusercontent.com/68725514/156732253-a446422a-4fa6-4109-b526-cd77266de76b.gif)
+### Hi there
  
 
 - 🔭 I’m currently working on Computer Vision projects
