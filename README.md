@@ -10,7 +10,7 @@
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/23Aditya/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=1849174) -->
 <!--
 **23Aditya/23Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
