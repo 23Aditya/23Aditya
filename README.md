@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on research projects in fields of computer vision & NLP .
 
 <a href="https://github.com/23Aditya/github-profile-views-counter">
-<!--     <img src="https://komarev.com/ghpvc/?username=23Aditya&style=for-the-badge"> -->
+    <img src="https://komarev.com/ghpvc/?username=23Aditya&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
