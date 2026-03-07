@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
   <img width="12"/>
 
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="35" title="LangChain"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/langgraph/000000" height="35" title="LangGraph"/>
+<img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="Pandas"/>
   <img width="12"/>
 
