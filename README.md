@@ -1,28 +1,94 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
- 
-- 🔭 I’m currently working on projects in Retrieval-Augmented Generation (RAG) and Agentic AI.
-- 👯 I’m looking to collaborate on research projects in the fields of RAG, Agentic AI, and LLM-based systems.
+<h2 align="center">Hi 👋! My name is <a href="https://www.linkedin.com/in/aditya-verma-74a255200/" target="_blank">Aditya Verma</a> and I'm an AI Engineer </h2>
 
-<a href="https://github.com/23Aditya/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=23Aditya&style=for-the-badge">
-</a>
+###
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/23Aditya/github-profile-views-counter
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical" height="150" alt="activity-graph graph"  /> -->
+</div>
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-<!--
-**23Aditya/23Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="Pandas"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" title="NumPy"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" title="TensorFlow"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35" title="Scikit-Learn"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" title="Computer Vision"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="35" title="PySpark"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="SQL"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" title="Docker"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" title="Flask API"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" title="AWS"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" title="Azure AI Foundry"/>
+  <img width="12"/>
+
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="35" title="Databricks"/>
+<img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" title="Linux"/>
+  <img width="12"/>
+
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="35" title="NVIDIA"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/iota/131F37" height="35" title="IoT"/>
+<img width="12"/>
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
+
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aditya-verma-74a255200/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" title="Aditya Verma's LinkedIn" />
+  </a>
+  <a href="mailto:23adityaverma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" title="Aditya Verma's Mail" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<!-- <img src="./snake.yml" alt="Snake animation" /> -->
+
+###
+
+<!-- <div align="center"> -->
+  <!-- <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg?"  /> -->
+<!-- </div> -->
