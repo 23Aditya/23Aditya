@@ -23,6 +23,15 @@
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="35" title="LangChain"/>
 <img width="12"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/nvidia/76B900" height="35" title="NVIDIA Jetson Nano"/>
+<img width="12"/>
+
 <img src="https://cdn.simpleicons.org/langgraph/000000" height="35" title="LangGraph"/>
 <img width="12"/>
 
@@ -64,9 +73,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" title="Linux"/>
   <img width="12"/>
-
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="35" title="NVIDIA"/>
-<img width="12"/>
 
 <img src="https://cdn.simpleicons.org/iota/131F37" height="35" title="IoT"/>
 <img width="12"/>
