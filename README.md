@@ -30,6 +30,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 <img src="https://cdn.simpleicons.org/huggingface" height="35"/>
 <img src="https://cdn.simpleicons.org/langchain" height="35"/>
+<img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" height="35"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/500px-Amazon-S3-Logo.svg.png" height="35"/>
+
+<img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64@5x.png" height="35"/>
+
+<img src="https://miro.medium.com/v2/1*2VrAFwGLDTenUIOKqmksEg.png" height="40"/>
 
 </div>
 
