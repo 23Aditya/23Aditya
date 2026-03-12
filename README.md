@@ -18,11 +18,11 @@ AI Engineer | RAG Systems | Agentic AI | Computer Vision | NLP
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=23Aditya&theme=react-dark"/>
 
-</div>
+</div> -->
 
 ---
 
