@@ -113,8 +113,8 @@ AI Engineer | RAG Systems | Agentic AI | Computer Vision | NLP
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=23Aditya&color=blue&style=for-the-badge"/>
 
-</div>
+</div> -->
