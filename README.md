@@ -28,9 +28,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+
+<!-- AI / GenAI -->
 <img src="https://cdn.simpleicons.org/huggingface" height="35"/>
 <img src="https://cdn.simpleicons.org/langchain" height="35"/>
-<img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" height="35"/>
+<img src="https://cdn.simpleicons.org/databricks" height="35"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/500px-Amazon-S3-Logo.svg.png" height="35"/>
 
