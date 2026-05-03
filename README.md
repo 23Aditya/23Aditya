@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=23Aditya&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23Aditya&theme=radical" height="150"/>
 <img src="https://streak-stats.demolab.com?user=23Aditya&theme=radical" height="150"/>
 
 <div align="center">
