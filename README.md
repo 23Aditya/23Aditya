@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aditya+Verma;AI+Engineer;RAG+%7C+Agentic+AI+Developer;Building+Intelligent+Systems+🚀"/>
 </h1>
 
-<h3 align="center">AI Engineer | RAG Systems | Agentic AI | Computer Vision | NLP</h3>
+<h3 align="center">AI Engineer | RAG Systems | Agentic AI | Computer Vision | NLP </h3>
 
 <div align="center">
 
